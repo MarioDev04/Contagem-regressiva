@@ -13,6 +13,7 @@ body{
     background-image: url('../images/loveBG.jpg');
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     color: #a83232;
     user-select: none;
 }
