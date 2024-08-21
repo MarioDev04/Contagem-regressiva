@@ -62,3 +62,25 @@ body{
     cursor: pointer;
     border: solid 2px whitesmoke;
 }
+
+@media screen and (max-width:769px){
+    .title {
+        font-size: 1rem;
+    }
+
+    .countdown h1{
+        font-size: 3rem;
+    }
+
+    .countdown p{
+        font-size: .5rem;
+        text-shadow: 0 0 10px  #a83232;
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width:400px){
+    .countdown div{
+        width: 50%;
+    }
+}
