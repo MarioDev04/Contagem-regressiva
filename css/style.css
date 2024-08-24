@@ -30,12 +30,12 @@ body{
 }
 
 .title {
-    font-size: 3rem;
+    font-size: 4rem;
     text-shadow: 0 0 10px  #a83232;
 }
 
 .title p {
-    font-size: calc(8px + 1vw);
+    font-size: calc(10px + 1vw);
 }
 
 .countdown{
@@ -56,14 +56,6 @@ body{
     font-size: 1.5rem;
     text-shadow: 0 0 10px  #a83232;
     font-weight: bold;
-}
-
-.button{
-    background-color: whitesmoke;
-    color: black;
-    padding: 10px;
-    cursor: pointer;
-    border: solid 2px whitesmoke;
 }
 
 @media screen and (max-width:769px){
