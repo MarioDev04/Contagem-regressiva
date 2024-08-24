@@ -35,7 +35,7 @@ body{
 }
 
 .title p {
-    font-size: calc(10px + 1vw);
+    font-size: calc(12px + 1vw);
 }
 
 .countdown{
@@ -60,7 +60,7 @@ body{
 
 @media screen and (max-width:769px){
     .title {
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
 
     .countdown h1{
